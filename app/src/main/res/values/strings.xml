@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">cadastroPessoa</string>
+
+    <!-- strings do app -->
+    <string name="nome">Nome:</string>
+    <string name="sobrenome">Sobrenome:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="listar">Listar</string>
+    <string name="listar_pessoas">Exibir Pessoas Cadastradas</string>
+    <string name="cad_ok">Cadastro realizado com sucesso!</string>
+    <string name="cad_erro">Erro no cadastro!</string>
+    <string name="zero_registro">Sem Registros</string>
+</resources>
